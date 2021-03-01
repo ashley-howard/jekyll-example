@@ -11,12 +11,12 @@ sections:
   label: Posts
   create: all
 - type: directory
-  path: _jobs
+  path: jobs
   label: Jobs
   create: all
   match: "**/*"
 - type: directory
-  path: _authors
+  path: authors
   label: Authors
   create: all
   match: "**/*"
