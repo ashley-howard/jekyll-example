@@ -28,3 +28,5 @@ fields:
     maxSize: 64
   label: Header Image
   description: Insert the header image.
+pages:
+- jekyll/blog-post.md
